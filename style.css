@@ -1,0 +1,19 @@
+select{
+  margin: 10px;
+}
+
+input{
+  margin: 10px;
+}
+
+button{
+  margin: 10px;
+}
+h1{
+  font-family: sans-serif;
+}
+
+body{
+  text-align: center;
+  margin-top: 25vh;
+}
